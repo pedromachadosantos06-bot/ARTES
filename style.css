@@ -1,0 +1,20 @@
+body{
+    color: red;
+    background-color: rgb(0, 0, 0);
+    margin: 0px;
+}
+
+header{
+    border-bottom: solid 2px white;
+    padding: 20px;
+    font-size: 32px;
+    color: red;
+}
+
+section{
+    background: rgb(58, 33, 1);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
