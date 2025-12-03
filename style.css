@@ -3,6 +3,7 @@ body{
     background-color: rgb(0, 0, 0);
     margin: 0px;
     font-family: "Momo Trust Display", sans-serif;
+    margin-bottom: 100px;
 }
 
 header{
@@ -12,12 +13,12 @@ header{
     color: red;
 }
 
-section{
+.chamada{
     background: rgb(58, 33, 1);
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex;
-    justify-content: first baseline;
+    justify-content: center;
 }
 .chamada-texto{
     margin-right: 5%;
